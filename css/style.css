@@ -21,8 +21,8 @@ body
 header
 {
     text-align: center;
-    background-color: #696969;
-    color: white;
+    background-color: #00008B;
+    color: black;
     padding: 20px;
     width: 100%;
     height: 70px;
@@ -37,7 +37,7 @@ header
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color:#48D1CC;
+    background-color:#A9A9A9;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
     font-weight: bold;
@@ -60,7 +60,7 @@ header
  
 .navigasi li a:hover 
 {
-    background-color:red;
+    background-color:#7CFC00;
     transition-duration: 2s;
 }
  
@@ -87,7 +87,7 @@ header
  
 .kotak h3
 {
-    background-color: #48D1CC;
+    background-color: #7CFC00;
     color: white;
     text-align: center;
     padding: 10px;
@@ -129,7 +129,7 @@ header
  
 .tanggal-posting
 {
-    color: gray;
+    color: blue;
     text-align: right;
     font-size: 12px;
     margin-bottom: 10px;
@@ -155,12 +155,12 @@ header
  
 .tombol-pesan
 {
-    background-color: #F4A460;
+    background-color: #ADD8E6;
 }
  
 .tombol-lengkap
 {
-    background-color: #F4A460;
+    background-color: #ADD8E6;
 }
  
 .menu-kanan
